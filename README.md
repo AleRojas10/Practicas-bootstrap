@@ -7,3 +7,4 @@
 ## Septima practica formularios con rejilla
 ## Octava practica sobre botones
 ## Novena práctica acerca de imágenes
+## Décima práctica sobre clases auxiliares
