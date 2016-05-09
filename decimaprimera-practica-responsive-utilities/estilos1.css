@@ -1,0 +1,28 @@
+header
+{
+	background: #273549;
+	color:#FFFFFF;
+}
+.colorsection{
+	background: #D6D6D6;
+}
+.color1
+{
+	background: #273549;
+	color:#FFFFFF;
+}
+aside
+{
+	background: #c0392b;
+	color:#fff;
+}
+/*.color2
+{
+	background: #193F34;
+	color: #FFFFFF;
+}*/
+footer
+{
+	background: #193F34;
+	color: #FFFFFF;
+}
