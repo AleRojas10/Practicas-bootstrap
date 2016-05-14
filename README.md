@@ -17,3 +17,4 @@
 ## Décima septima práctica sobre barras de navegación
 ## Décima octava práctica sobre migajas de pan/breadcrumbs
 ## Décima novena práctica sobre paginación
+## Vigésima práctica sobre etiquetas
